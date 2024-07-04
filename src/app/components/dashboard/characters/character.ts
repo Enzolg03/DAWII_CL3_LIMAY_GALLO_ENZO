@@ -1,5 +1,4 @@
 export interface Character{
-    postId: number;
     id: number;
     name: string;
     status: string;

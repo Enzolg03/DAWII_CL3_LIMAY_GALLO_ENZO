@@ -1,5 +1,4 @@
 import { Component, OnInit } from '@angular/core';
-import { ActivatedRoute } from '@angular/router';
 import { CommentService } from '../comment.service';
 import { Comment } from '../comment';
 import { MaterialModule } from '../../../../angular-material/material/material.module';
